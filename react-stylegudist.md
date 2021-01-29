@@ -1,4 +1,4 @@
-<h2>React-Stylegudiist Documentation</h2>
+<h2>React-Styleguidist Documentation</h2>
 
 <h3>Introduction :</h3>
 
