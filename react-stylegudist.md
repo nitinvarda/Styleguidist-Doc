@@ -134,7 +134,7 @@ Any [Markdown](http://daringfireball.net/projects/markdown/) is **allowed** _her
 ```
 
 <h3>Output :</h3>
-![Image]()
+![Image](https://raw.githubusercontent.com/nitinvarda/Styleguidist-Doc/master/ButtonComponent.png)
 
 
 
