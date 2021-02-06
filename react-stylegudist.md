@@ -17,7 +17,7 @@ npm install react-styleguidist
 After installing we need to do some configuration to tell stylguidist where to search files for documenting.
 
 
-we need to make a new file with name `styleguide.config.json`
+we need to make a new file with name `styleguide.config.js`
 ```
 module.exports = {
     components: 'src/components/**/*.js',
